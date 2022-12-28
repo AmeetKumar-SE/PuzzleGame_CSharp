@@ -1,0 +1,38 @@
+D:\ameet\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe.config
+D:\ameet\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe
+D:\ameet\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.pdb
+D:\ameet\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.frmPuzzle.resources
+D:\ameet\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.Properties.Resources.resources
+D:\ameet\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.GenerateResource.cache
+D:\ameet\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.CoreCompileInputs.cache
+D:\ameet\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.exe
+D:\ameet\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.pdb
+D:\ameet\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csprojAssemblyReference.cache
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe.config
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.pdb
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.AssemblyReference.cache
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.frmPuzzle.resources
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.Properties.Resources.resources
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.GenerateResource.cache
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.CoreCompileInputs.cache
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.exe
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.pdb
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe.manifest
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.application
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.exe.manifest
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\ameet (1)\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.application
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe.config
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe.manifest
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.application
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.exe
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\bin\Debug\Task2_Lab7.pdb
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.AssemblyReference.cache
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.frmPuzzle.resources
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.Properties.Resources.resources
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.GenerateResource.cache
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.csproj.CoreCompileInputs.cache
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.exe.manifest
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.application
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.exe
+C:\Users\PC-I\Desktop\Labs_Visual_Programming\lab7\Task2_Lab7\Task2_Lab7\obj\Debug\Task2_Lab7.pdb
